@@ -206,7 +206,7 @@
     "date-fns": "^4.4.0",
     "es-toolkit": "^1.49.0",
     "fflate": "^0.8.3",
-    "handlebars": "^4.7.9",
+    "handlebars": "^4.7.10",
     "hyperformula": "^3.3.0",
     "lru-cache": "^11.5.2",
     "mitt": "^3.0.1",
@@ -237,7 +237,7 @@
     "timers-browserify": "^2.0.12",
     "typescript-strict-plugin": "^2.4.4",
     "util": "^0.12.5",
-    "vite": "^8.1.5",
+    "vite": "^8.1.6",
     "vite-plugin-node-polyfills": "patch:vite-plugin-node-polyfills@npm%3A0.28.0#~/.yarn/patches/vite-plugin-node-polyfills-npm-0.28.0-bac39616ee.patch",
     "vitest": "^4.1.10",
     "yargs": "^18.0.0"
